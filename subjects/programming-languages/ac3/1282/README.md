@@ -1,6 +1,7 @@
-<img align="right" style="border-radius: 50%; aspect-ratio: 1; object-fit: cover" width="50" src="../../../../assets/images/difficulty-level/02.webp"/>
+<img align="right" style="aspect-ratio: 1; object-fit: cover" width="50" src="../../../../assets/images/difficulty-level/02.webp"/>
 
 ## ImpacTube - 1282
+
 A ImpacTube, uma famosa empresa de compartilhamento de vídeos, quer premiar alguns de seus mais notáveis criadores de conteúdo. Para isso, a ImpacTube montará uma tabela com alguns dos canais que possuem grande quantidade de usuários inscritos.
 
 No site da ImpacTube, os canais geram renda para seus criadores de conteúdo por meio de diversos mecanismos, a conhecida "monetização", o que geralmente é influenciado pela quantidade de inscritos no canal e que acessam aos vídeos postados.
