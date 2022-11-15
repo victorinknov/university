@@ -13,4 +13,7 @@ Just to save notes and codes from my degree. I'm currently studying at FIT (Facu
 All visual content, with the exception of background images, was created by me and copyrighted. If you would like to use any available logo, work or branding, please contact me by email: victorinknov@mail.com.
 
 ## Visit
-[Confia Design](https://www.confiadesign.com)
+[Confia Design](https://confiadesign.com) have a new isotype, check out!
+
+<img src='https://www.confiadesign.com/img/essentials/gif-correto.gif' height="250px">
+
