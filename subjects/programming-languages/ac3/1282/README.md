@@ -1,4 +1,9 @@
-<img style="float: right; border-radius: 50%; aspect-ratio: 1; object-fit: cover" width="50" src="../../../../assets/images/difficulty-level/02.webp"/>
+<img alt=">" src="../../../../assets/images/difficulty-level/01.webp" width=50 />
+<style>
+    img[alt$=">"] {
+    float: right;
+}
+</style>
 
 ## ImpacTube - 1282
 A ImpacTube, uma famosa empresa de compartilhamento de vídeos, quer premiar alguns de seus mais notáveis criadores de conteúdo. Para isso, a ImpacTube montará uma tabela com alguns dos canais que possuem grande quantidade de usuários inscritos.
