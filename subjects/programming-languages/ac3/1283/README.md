@@ -1,4 +1,6 @@
-## Corra Forrest - 1283
+<img style="float: right; border-radius: 50%; aspect-ratio: 1; object-fit: cover" width="50" src="../../../../assets/images/difficulty-level/01.webp"/>
+
+## Corra Forrest - 1283 
 Forrest é um garoto que adora correr e contar histórias, as vezes até conta histórias sobre correr... vai entender. Como costuma correr diariamente pela cidade, Forrest sempre procura fazer o menor tempo possível, porém não é muito organizado e anota os tempos de suas corridas em papeis que são jogados em sua gaveta sem nenhum tipo de ordenação.
 
 ### Entrada
