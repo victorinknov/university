@@ -2,7 +2,7 @@
 ![website preview](https://raw.githubusercontent.com/victorinknov/university/master/screenshot.png)
 Just a dump blurried picture of my current setup.
 
-| Motherboard                   | Graphics Card     | Memory                    | Storage               | Processor         | Power Supply                       | Radiator       | SO                    |
+| Motherboard                   | Graphics Card     | Memory                    | Storage               | Processor         | Case                       | Power Supply       | SO                    |
 | :---------------------------: | :---------------: | :-----------------------: | :------------------: | :---------------: | :------------------------: | :-----------: | :-------------------: |
 | Asus Rog Strix B450F Gaming I | AMD Radeon RX6600 | 4x8GB 3200mhz HyperX Fury | 1TB SSD Kingston A400 | AMD Ryzen 5 5600x | Pichau Apus MidTower Black | Corsair CX650M | Linux Mint 21 Vanessa |
 
