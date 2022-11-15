@@ -1,4 +1,4 @@
-<img style="float: right; border-radius: 50%; aspect-ratio: 1; object-fit: cover" width="50" src="../../../../assets/images/difficulty-level/01.webp"/>
+<img align="right" style="aspect-ratio: 1; object-fit: cover" width="50" src="../../../../assets/images/difficulty-level/01.webp"/>
 
 ## Exibindo Tabuada - 1270
 Escreva um programa que receba como entrada dois números inteiros quaisquer A e B e exiba todas as tabuadas existentes no intervalo fechado crescente [ A..B ].
