@@ -1,6 +1,6 @@
-<img align="right" style="aspect-ratio: 1; object-fit: cover" width="50" src="../../../../assets/images/difficulty-level/01.webp"/>
+<img align="right" style="aspect-ratio: 1; object-fit: cover" width="50" src="../../../../assets/images/difficulty-level/03.webp"/>
 
-## Corra Forrest - 1283 
+## Segunda Chance - 1284 
 Em uma faculdade de um mundo muito distante, dois jovens professores buscam ajudar seus alunos a estudarem e melhorarem seus conhecimentos sobre a disciplina de programação, fazendo com que notas mais altas sejam conquistadas. Para isso, desenvolveram a estratégia da "Segunda Chance".
 A "Segunda Chance" consiste em uma nova atividade com os mesmos problemas da atividade original, porém com um prazo estendido e com a disponibilização de vídeos detalhados com a resolução de cada problema, de modo a incentivar que os alunos revisitem e comparem suas próprias propostas de solução.
 Para aumentar ainda mais o incentivo para a turma, os professores concedem um bônus de dois pontos sobre a nota original para aqueles que resolverem TODOS os problemas dentro do prazo estendido, isto é, que obtiverem dez na nova atividade, o que é uma "moleza", considerando que basta assistir as resoluções e aplicá-las. Mas é claro, o bônus é concedido até o limite de dez pontos, ou seja, caso a soma do bônus com a nota original resulte em um valor superior a dez, a nota final será dez.

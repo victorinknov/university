@@ -1,4 +1,4 @@
-<img align="right" style="aspect-ratio: 1; object-fit: cover" width="50" src="../../../../assets/images/difficulty-level/02.webp"/>
+<img align="right" style="aspect-ratio: 1; object-fit: cover" width="50" src="../../../../assets/images/difficulty-level/03.webp"/>
 
 ## ImpacTube - 1282
 
