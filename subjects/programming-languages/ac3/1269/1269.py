@@ -15,7 +15,7 @@ while True:
     if user_input == '':
         None
 
-    elif curated_input[0].isnumeric():
+    elif curated_input[0].isnumeric() or '-' in curated_input[0]:
         for x in curated_input:
             list_of_products.append(int(x))
 
